@@ -2,10 +2,9 @@
 
 ## Team Data Divers
 Team Members:
-1. Anirudh Ganguly
-2. Riddhi Jain
-3. Somya Mishra
-4. Sheema Murugesh Babu
+1. Vishruth Solomon
+2. B Raghu Ram
+
 
 ## Deliverables:
 1. Please find Project Proposal [here](https://github.com/rridhi-jain/voilence-detection/blob/main/Documentation/CMPE-258%20Project%20Proposal_DataDivers.docx)
